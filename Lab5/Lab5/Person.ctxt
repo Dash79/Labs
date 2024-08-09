@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Creating\ Java\ Objects\r\n\r\n\ @author\ Dawit\ Getachew\r\n\ @version\ Lab\ 5_Version\ 1\r\n\ @date\ \ \ \ 13-10-20xx\r\n
+comment1.params=inName\ inAge\ inGender\ inHairColor\ inDegree
+comment1.target=Person(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getAge()
+comment4.params=
+comment4.target=java.lang.String\ getGender()
+comment5.params=
+comment5.target=java.lang.String\ getHairColor()
+comment6.params=
+comment6.target=java.lang.String\ getDegree()
+comment7.params=newAge
+comment7.target=int\ setAge(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=you
+comment9.target=java.lang.String\ marry(java.lang.String)
+numComments=10

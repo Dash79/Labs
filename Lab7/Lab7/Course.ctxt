@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ A\ Course\ object.\r\n\r\n\ @author\ Dawit\ Getachew\r\n\ @version\ Lab\ 17_Version\ 1\r\n\ @date\ \ \ \ 03-11-2023\r\n
+comment1.params=inGrade\ inCredit
+comment1.target=Course(int,\ double)
+comment2.params=
+comment2.target=int\ getGrade()
+comment3.params=
+comment3.target=double\ getCredit()
+comment4.params=
+comment4.target=java.lang.String\ letter()
+comment4.text=\r\n\ A\ method\ that\ returns\ a\ letter\ grade\ given\ a\ number\ grade\r\n
+comment5.params=
+comment5.target=double\ gpa()
+comment5.text=\r\n\ A\ method\ that\ returns\ a\ GPA\ score\r\n
+comment6.params=
+comment6.target=double\ cont()
+comment6.text=\r\n\ A\ method\ that\ returns\ the\ gpa\ contribution\r\n
+numComments=7

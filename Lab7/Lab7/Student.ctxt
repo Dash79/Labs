@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ A\ Student\ class.\r\n\r\n\ @author\ Dawit\ Getachew\r\n\ @version\ Lab\ 7_Version\ 1\r\n\ @date\ \ \ \ 03-11-2023\r\n
+comment1.params=inFirst\ inFam\ inCourse1\ inCourse2\ inCourse3\ inCourse4\ inCourse5
+comment1.target=Student(java.lang.String,\ java.lang.String,\ Course,\ Course,\ Course,\ Course,\ Course)
+comment2.params=
+comment2.target=java.lang.String\ construct()
+comment2.text=\r\n\ A\ method\ to\ combine\ a\ persons\ last\ and\ first\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ grade()
+comment3.text=\r\n\ A\ method\ that\ returns\ a\ string\ containing\ the\ 5\ grades\r\n
+comment4.params=
+comment4.target=double\ gpaVal()
+comment4.text=\r\n\ A\ method\ that\ returns\ a\ users\ gpa\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ A\ toString\ method\r\n
+numComments=6

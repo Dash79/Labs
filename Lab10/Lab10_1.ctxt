@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Lab10_1
+comment0.text=\r\n\ @author\ Dawit\ Ashenafi\ Getachew\r\n\ @version\ Lab10-Program1\r\n\ @date\ 01/12/23\r\n\ \r\n
+comment1.params=n\ m
+comment1.target=double[][]\ program1(int,\ int)
+numComments=2

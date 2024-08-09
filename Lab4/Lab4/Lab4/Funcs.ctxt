@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Funcs
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x1\ x2\ y1\ y2
+comment2.target=void\ makeLine(double,\ double,\ double,\ double)
+comment2.text=\r\n\ A\ makeLine\ function\ that\ takes\ 4\ points(x1,x2,y1,y2).\r\n\ Input\ Parameters\:\ x1,x2,y1,y2\r\n\ Purpose\:\ Displays\ line\ in\ Slope-Intercept\r\n
+comment3.params=prompt
+comment3.target=int\ getInt(java.lang.String)
+comment3.text=\r\n\ Static\ Function\:\ getInt\r\n\ Purpose\:\ Takes\ String\ as\ a\ Parameter\ and\ Prompts\ user\ for\ an\ integer\ value\r\n\ \ \ \ \ \ \ \ \ \ returning\ it\ to\ the\ call\ point\r\n\ Parameters\:\ A\ string\ sentence\r\n
+comment4.params=slope\ b\ x
+comment4.target=void\ linearEvaluate(double,\ double,\ double)
+comment4.text=\r\n\ Static\ Function\:\ linearEvaluate\r\n\ Purpose\:\ Determine\ the\ value\ of\ y\r\n\ Parameters\:\ slope,b,x\r\n
+numComments=5

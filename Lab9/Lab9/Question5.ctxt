@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Question5
+comment0.text=\r\n\ Check\ if\ a\ number\ is\ a\ perfect\ number.\r\n\r\n\ @author\ Dawit\ Getachew\r\n\ @version\ Lab\ 9_Version\ 1\r\n\ @date\ \ \ \ 24-11-2023\r\n
+comment1.params=x
+comment1.target=boolean\ perfect(int)
+numComments=2

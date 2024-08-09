@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Question4
+comment0.text=\r\n\ Finding\ factors\ of\ numbers.\r\n\r\n\ @author\ Dawit\ Getachew\r\n\ @version\ Lab\ 9_Version\ 1\r\n\ @date\ \ \ \ 24-11-2023\r\n
+comment1.params=y
+comment1.target=java.util.ArrayList\ factor(int)
+numComments=2

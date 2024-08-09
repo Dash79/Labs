@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Question1b
+comment0.text=\r\n\ Solve\ Mathematical\ Equations.\r\n\r\n\ @author\ Dawit\ Getachew\r\n\ @version\ Lab\ 2_Question\ 1_Version\ 1\r\n\ @date\ \ \ \ 22-09-2023\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

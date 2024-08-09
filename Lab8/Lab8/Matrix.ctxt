@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Matrix
+comment1.params=row\ column
+comment1.target=Matrix(int,\ int)
+comment10.params=B
+comment10.target=Matrix\ add(double[][])
+comment11.params=B\ n1\ n2
+comment11.target=void\ sum(double[][],\ double,\ double)
+comment2.params=
+comment2.target=void\ rand()
+comment3.params=
+comment3.target=void\ standard()
+comment4.params=
+comment4.target=int\ getRow()
+comment5.params=
+comment5.target=int\ getColumn()
+comment6.params=
+comment6.target=double[][]\ getData()
+comment7.params=i\ j\ element
+comment7.target=void\ setElement(int,\ int,\ double)
+comment8.params=
+comment8.target=void\ transpose()
+comment9.params=c
+comment9.target=void\ scalarMultiply(double)
+numComments=12
